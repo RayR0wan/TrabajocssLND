@@ -1,0 +1,90 @@
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin:0;
+    }
+    header{
+        border-bottom: 1px black solid;
+        padding: 0 0 15px 0;
+    }
+    .menu{
+        background-color: rgb(49, 46, 46);
+        display: flow-root;
+    }
+    .menu-logo{
+        color: white;
+        float: left;
+        list-style: none;
+    }
+    .menu-opciones{
+        color: white;
+        position: relative;
+        left:400px;
+        bottom: 10px;
+        float: left;
+        margin-left: 5%;
+        list-style: none;    
+    }
+    a:hover{
+        color: orange;
+    }
+    a{
+        text-decoration: none;
+        color:inherit;
+    }
+    .nombreempresa{
+        color: white;
+        position: relative;
+        top: 15px;
+        right: 440px;
+    }
+    .pequeño{
+        width: 10%;
+        float: left;
+    }
+    .diminuto{
+        width: 3%;
+    }
+    .mediano{
+        width: 80%;
+    }
+    .colorito{
+        color: orange;
+    }
+    .pequeñosocial{
+        width: 5%;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .separador{
+        margin-top: 10px;
+        border-bottom: 1px black solid;
+        padding: 0 0 15px 0;
+    }
+    .negrita{
+        font-weight: bolder;
+    }
+    .titulo{
+        padding-bottom: 10px;
+    }
+    .subtitulo{
+        padding-bottom: 10px;
+    }
+    .contenido{
+        padding-bottom: 20px;
+        padding-top: 10px;
+    }
+    h1{
+        text-align: center;
+    }
+    button{
+        width: 35%;
+        height: 30px;
+        border-radius: 15px;
+        background-color: black;
+        color: white;
+        font-size: medium;
+        font-weight: bold;
+    }
+    

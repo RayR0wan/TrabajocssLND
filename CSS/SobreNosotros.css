@@ -1,0 +1,44 @@
+.informacion{
+    margin-top: 50px;
+}
+.imgtienda{
+    /*Para que no se vea fea la foto*/
+    object-fit: cover;
+    position: relative;
+    float: left;
+    width: 45%;
+    height: 90vh;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.textoinformativo{
+    display: flow-root;
+    width: 50%;
+    float: right;
+    padding-left: 30px;
+    padding-top: 10px;
+    height: 100%;
+    
+}
+h2{
+    color: gray;
+}
+.nombreempresatexto{
+        color: black;
+        position: relative;
+        top: 10px;
+        right: 440px;
+}
+.pretexto{
+    font-weight: bolder;
+    font-size: larger;
+    padding-top: 50px;
+
+}
+.texto{
+    padding-bottom: 20px;
+}
+.parrafo{
+    font-size: larger;
+    margin-bottom: 15px;
+}

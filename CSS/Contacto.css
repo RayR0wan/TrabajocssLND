@@ -1,0 +1,47 @@
+main{
+    display: flow-root;
+}
+.textocontacto{
+    width: 45%;
+    float: left;
+}
+.formulario{
+    width: 45%;
+}
+.logosociales{
+    position: relative;
+    left: 100px;
+    top: 40px;
+}
+.basemedizqd{
+position: relative;
+    top: 35px;
+    right: 5px;
+
+}
+.punta{
+position: relative;
+left: 18px;
+top: 10px;
+}
+.baseizqda{
+    position: relative;
+    top: 75px;
+    right: 100px;
+}
+.basemeddcha{
+    position: relative;
+    top: 40px;
+    left: 20px;
+}
+.basedcha{
+    position: relative;
+    top: 75px;
+    left: 20px;
+}
+.formulario{
+    float: right;
+}
+.form{
+    width: 70%;
+}

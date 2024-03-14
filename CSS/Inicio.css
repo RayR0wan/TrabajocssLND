@@ -1,0 +1,37 @@
+main{
+    background-image: url("../IMG/Carroussel/Carroussel-1.webp");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    height: 60vh;
+    margin-top: 15px;
+}
+h1{
+    font-weight: 5000;
+    color: white;
+    position: relative;
+    top: 20%;
+    left: 5%;
+    width: 5%;
+    left: 200px;
+    bottom: 15px;
+}
+div.descripcion {
+    width: 25%;
+    float: left;
+    margin: 15px;
+    margin-left: 55px;
+    margin-top: 50px;
+    font-size: larger;
+    text-align: justify;
+}
+button{
+    margin-top: 20px;   
+}
+div.articulo img{
+    width: 20%;
+    float: right;
+    margin:15px;
+    margin-right: 55px;
+}
+/*Colorcitos cuando pasas por encima de los botones
+  enlaces y ponerle texto en */

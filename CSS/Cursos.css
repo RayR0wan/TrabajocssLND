@@ -1,0 +1,30 @@
+.imgfalsificaciones{
+    float: left;
+    
+}
+.infofalsificaciones{
+    width: 50%;
+    float: right;
+    padding-top: 100px;
+    padding-right: 200px;
+    font-size: larger;
+}
+.mediano{
+    width: 40%;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+.imgdiseño{
+    float: right;
+}
+.infodiseño{
+    width: 50%;
+    float: left;
+    padding-top: 100px;
+    padding-left: 30px;
+    font-size: larger;
+}
+button:hover{
+    color: orange;
+}
